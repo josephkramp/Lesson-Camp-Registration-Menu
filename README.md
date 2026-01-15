@@ -1,5 +1,4 @@
 # Lesson/Camp Registration Menu
-My final project for my IT-230 class
 
 This is a registration menu built as a simple prompt for business to use and save the important information and details of their students/campers.
 
